@@ -5,9 +5,9 @@ This repo contains examples of my coding abilities across a full range tech stac
 
 These files contain snippets of code drafted for my research conducted at the University of Virginia for the Computer Science department. They specifically works with webscraped HTML files and pulls out necessary data for analysis, including article titles, publishing dates, and article bodies. The second file begins to apply Named Entity Recognition on the parsed data. This project had additional code that modified databases, did targeted sentiment analysis, and more. 
 
-# APIExample.py 
+# APIExample: Profile.js UpdateOrganization.go
 
-I have several years of experience building API routes for web applications for both TD Securities and Seam Social Labs, but much of the code is not able to be shared. This file contains a simple example of an API route that communicates with a MariaDB database to save and update user data. It is not functional as a stand alone file, but rather meant to be a glimpse into a larger code repo. 
+I have several years of experience building API routes for web applications for both TD Securities and Seam Social Labs, but much of the code is not able to be shared. Profile.js is an example JavaScript file that contains code for users to update their account information. UpdateOganization.go contains functions that would exist accross multiple files to execute a user specifically wanting to update their organization. These are not functional as stand alone files, but rather meant to be a glimpse into a larger code repo. 
 
 # Front End Work 
 
