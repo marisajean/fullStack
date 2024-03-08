@@ -1,9 +1,9 @@
 # fullStack
 This repo contains examples of my coding abilities across a full range tech stack. While the majority of work I have done has been proprietary and thus not able to be shared, the files in this repo show snippets of my capabilities. They also come from different origin sources and are not meant to be seen as related files. See bow for outlines of what each file showcases. 
 
-# NLPExample.py
+# NLPExampleParser.py NLPExampleEntityRecognition.py
 
-This file contains snippets of code drafted for my research conducted at the University of Virginia for the Computer Science department. It specifically works with webscraped HTML files and pulls out necessary data for analysis, including article titles, publishing dates, and article bodies. Additional functions begin to apply Named Entity Recognition on the parsed data. This project had additional code that modified databases, did targeted sentiment analysis, and more. 
+These files contain snippets of code drafted for my research conducted at the University of Virginia for the Computer Science department. They specifically works with webscraped HTML files and pulls out necessary data for analysis, including article titles, publishing dates, and article bodies. The second file begins to apply Named Entity Recognition on the parsed data. This project had additional code that modified databases, did targeted sentiment analysis, and more. 
 
 # APIExample.py 
 
