@@ -5,7 +5,7 @@ This repo contains examples of my coding abilities across a full range tech stac
 
 These files contain snippets of code drafted for my research conducted at the University of Virginia for the Computer Science department. They specifically works with webscraped HTML files and pulls out necessary data for analysis, including article titles, publishing dates, and article bodies. The second file begins to apply Named Entity Recognition on the parsed data. This project had additional code that modified databases, did targeted sentiment analysis, and more. 
 
-Here you can find my written report of the research and findings: https://www.linkedin.com/in/marisa-dinko/
+Here you can find my written report of the research and findings under the section "projects": https://www.linkedin.com/in/marisa-dinko/
 
 # APIExample: Profile.js UpdateOrganization.go
 
